@@ -1,1 +1,1 @@
-simple redirectory tasks
+Hello world script
